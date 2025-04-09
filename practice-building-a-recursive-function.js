@@ -9,3 +9,6 @@ function reverseString(inputString) {
 }
 
 console.log(reverseString("Hello"))
+console.log(reverseString("recursion"))
+console.log(reverseString("a"))
+console.log(reverseString(""))
